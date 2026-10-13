@@ -33,6 +33,8 @@ Ziel ist es, den vollständigen Risikomanagement-Prozess eines ISMS exemplarisch
 | Geschäftsfeld | B2B-Technologie, IT-Dienstleistungen, Beratung |
 | IT-Landschaft | Hybride Cloud- & Rechenzentrumsumgebung |
 
+→ [Vollständiges Unternehmensprofil](docs/01_unternehmensprofil.md)
+
 ---
 
 ## Methodik & Scope
