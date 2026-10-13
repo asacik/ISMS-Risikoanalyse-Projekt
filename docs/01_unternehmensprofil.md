@@ -38,7 +38,7 @@ Die Noventis Group GmbH besteht aus **4 operativen Geschäftsbereichen**, die un
 
 **Fokus:** Entwicklung industrieller Software und Automatisierungslösungen.
 
-Leistungen:
+**Leistungen:**
 - Automatisierungssoftware für Produktionsanlagen
 - Industrielle IoT-Lösungen (IIoT)
 - Digitale Produktions- und Steuerungssysteme
@@ -54,7 +54,7 @@ Leistungen:
 
 **Fokus:** Betrieb von Cloud-Anwendungen und Datenplattformen.
 
-Leistungen:
+**Leistungen:**
 - Betrieb hybrider Cloud-Umgebungen (AWS, Azure, private Cloud)
 - Datenplattformen und Analytics
 - Managed IT-Services für Geschäftskunden
@@ -70,7 +70,7 @@ Leistungen:
 
 **Fokus:** Beratung zu IT-Strategie, Compliance und Risikomanagement.
 
-Leistungen:
+**Leistungen:**
 - IT-Strategie und digitale Transformation
 - Compliance-Beratung (DSGVO, ISO 27001, NIS2)
 - Risiko- und Sicherheitsmanagement
@@ -86,7 +86,7 @@ Leistungen:
 
 **Fokus:** Interne Unterstützung der Geschäftsprozesse.
 
-Funktionen:
+**Funktionen:**
 - Finanzen und Buchhaltung
 - Personalwesen (HR)
 - Einkauf und Lieferantenmanagement
