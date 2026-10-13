@@ -12,7 +12,7 @@ Die Analyse orientiert sich an der **ISO/IEC 27001:2022** und behandelt sowohl t
 
 ## 2. Unternehmensprofil
 
-Die Noventis Group GmbH ist ein fiktives deutsches Technologie- und Beratungsunternehmen mit Hauptsitz in München und weiteren Standorten in Europa.
+Die Noventis Group GmbH ist ein fiktives deutsches Technologie- und Beratungsunternehmen mit Hauptsitz in Nürnberg und weiteren Standorten in Europa.
 
 Das Unternehmen unterstützt Geschäftskunden bei der Digitalisierung von Geschäftsprozessen, entwickelt industrielle Softwarelösungen und bietet IT-Dienstleistungen sowie Beratungsleistungen in den Bereichen Compliance, Risikomanagement und Informationssicherheit an.
 
@@ -28,7 +28,7 @@ Durch die Verarbeitung vertraulicher Kundendaten, den Betrieb digitaler Plattfor
 | Standorte | 12 Standorte in Europa |
 | Geschäftsmodell | B2B-Technologie, IT-Dienstleistungen und Unternehmensberatung |
 | IT-Infrastruktur | Hybride Cloud- und Rechenzentrumsumgebung |
-| Kunden | Unternehmen verschiedener Branchen |
+| Kunden | Unternehmen in verschiedeneen Branchen |
 
 Alle Angaben sind fiktive Annahmen für diese Fallstudie.
 
@@ -133,25 +133,7 @@ Im Rahmen des Projekts werden folgende Artefakte erstellt:
 
 Die Dokumente werden im Repository ergänzt, sobald die jeweiligen Projektbestandteile ausgearbeitet sind.
 
-## 9. Projektstruktur
-
-```text
-isms-risk-assessment/
-├── README.md
-├── docs/
-│   ├── risk-assessment-report.pdf
-│   ├── methodology.md
-│   └── scope-and-assumptions.md
-├── risk-register/
-│   └── risk-register.xlsx
-├── treatment-plan/
-│   └── risk-treatment-plan.md
-├── evidence/
-├── LICENSE
-└── .gitignore
-```
-
-## 10. Lernziele
+## 9. Lernziele
 
 Mit diesem Projekt sollen praktische Grundlagen in folgenden Bereichen vertieft werden:
 
@@ -163,21 +145,8 @@ Mit diesem Projekt sollen praktische Grundlagen in folgenden Bereichen vertieft 
 - Dokumentation und nachvollziehbare Begründung von Entscheidungen
 - Verbindung von technischen Risiken und organisatorischen Anforderungen
 
-## 11. Abgrenzung und Haftungshinweis
+## 10. Abgrenzung und Haftungshinweis
 
 Dieses Repository stellt eine eigenständige Lern- und Demonstrationsarbeit dar. Es handelt sich weder um ein offizielles Audit noch um eine zertifizierte Bewertung oder eine tatsächliche Sicherheitsanalyse eines realen Unternehmens.
 
 Die verwendeten Unternehmensinformationen, Kennzahlen und Risikoszenarien sind fiktiv. Die dargestellten Bewertungen und Maßnahmen sind nicht als verbindliche Sicherheitsberatung zu verstehen.
-
-## 12. Quellen und Referenzen
-
-- ISO/IEC 27001:2022 – Information Security Management Systems – Requirements
-- ISO/IEC 27005 – Guidance on Information Security Risk Management
-
-Die Standards dienen als fachliche Orientierung. Die vollständigen Normtexte sind nicht Bestandteil dieses Repositorys.
-
----
-
-**Projektstatus:** In Bearbeitung
-
-**Schwerpunkt:** Informationssicherheit, ISMS und Risikomanagement
