@@ -104,29 +104,27 @@ Die Noventis Group GmbH besteht aus **4 operativen Geschäftsbereichen**, die un
 
 Die Noventis Group GmbH wird von einer **Geschäftsführung** geleitet, unterstützt durch zentrale Stabsfunktionen und die Bereichsleitungen.
 
-Geschäftsführung
-│
-├── Chief Information Officer (CIO)
-│ ├── IT-Infrastruktur & Betrieb
-│ ├── Cloud & Plattformen
-│ └── IT-Service-Management
-│
-├── Chief Information Security Officer (CISO)
-│ ├── Informationssicherheitsmanagement (ISMS)
-│ ├── Security Operations (SOC)
-│ └── Security Architecture
-│
-├── Datenschutzbeauftragter (DSB)
-│ └── Datenschutz & Compliance
-│
-├── Noventis Engineering
-├── Noventis Digital Services
-├── Noventis Advisory
-└── Noventis Corporate Solutions
-├── Finanzen
-├── Personal
-├── Einkauf
-└── Recht & Verträge
+# Organisationsstruktur
+
+- **Geschäftsführung**
+  - **Chief Information Officer (CIO)**
+    - IT-Infrastruktur & Betrieb
+    - Cloud & Plattformen
+    - IT-Service-Management
+  - **Chief Information Security Officer (CISO)**
+    - Informationssicherheitsmanagement (ISMS)
+    - Security Operations (SOC)
+    - Security Architecture
+  - **Datenschutzbeauftragter (DSB)**
+    - Datenschutz & Compliance
+  - **Noventis Engineering**
+  - **Noventis Digital Services**
+  - **Noventis Advisory**
+  - **Noventis Corporate Solutions**
+  - **Finanzen**
+  - **Personal**
+  - **Einkauf**
+  - **Recht & Verträge**
 
 
 **Für die Risikoanalyse relevante Rollen:**
