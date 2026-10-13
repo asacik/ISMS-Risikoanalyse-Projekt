@@ -44,6 +44,7 @@ Bereitstellung und Betrieb von Cloud-Anwendungen, Datenplattformen und IT-Dienst
 
 ### Noventis Advisory
 Beratung in den Bereichen IT-Strategie, Compliance, Risikomanagement und digitale Transformation.
+<span style="color:red">Dieser Text ist rot</span>
 
 ### Noventis Corporate Solutions
 Unterstützung interner Geschäftsprozesse in den Bereichen Finanzen, Personalwesen, Einkauf und Vertragsmanagement.
