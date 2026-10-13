@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-in%20Arbeit-yellow)
 ![Standard](https://img.shields.io/badge/ISO%2FIEC-27001%3A2022-blue)
 ![Jahr](https://img.shields.io/badge/Jahr-2026-lightgrey)
-![Lizenz: CC BY Ilker Acikgöz](https://img.shields.io/badge/Lizenz-CC%20BY%204.0-lightgrey?logo=creativecommons&logoColor=red)
+![Copyright](https://img.shields.io/badge/%C2%A9%202025-Ilker%20Acikg%C3%B6z-red)
 
 Eine praxisorientierte Fallstudie zur **systematischen Identifikation, Bewertung und Behandlung von Informationssicherheitsrisiken** nach ISO/IEC 27001:2022 – durchgeführt anhand des fiktiven Unternehmens *Noventis Group GmbH*.
 
