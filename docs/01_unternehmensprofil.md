@@ -19,38 +19,22 @@ Noventis agiert als **europaweit tätige Unternehmensgruppe** mit einem breiten 
 | Merkmal | Beschreibung |
 |---|---|
 | Unternehmensname | Noventis Group GmbH |
-| Rechtsform | GmbH (fiktiv) |
-| Gründung | 2009 (fiktiv) |
+| Rechtsform | GmbH |
+| Gründung | 2005 |
 | Hauptsitz | Nürnberg, Bayern, Deutschland |
-| Weitere Standorte | 12 Standorte in Europa (u. a. Wien, Zürich, Amsterdam, Warschau, Mailand) |
+| Weitere Standorte | 12 Standorte in Europa |
 | Mitarbeitende | ca. 4.800 |
-| davon IT & Entwicklung | ca. 2.100 |
-| Jahresumsatz | ca. 780 Mio. € (fiktiv) |
 | Geschäftsmodell | B2B-Technologie, IT-Dienstleistungen, Unternehmensberatung |
 | Kunden | Mittelstand und Großunternehmen in Industrie, Automotive, Energie, Finanz- und Gesundheitswesen |
 | IT-Infrastruktur | Hybride Cloud- und Rechenzentrumsumgebung |
 
 ---
 
-## 3. Unternehmensgeschichte (fiktiv)
+## 3. Geschäftsbereiche
 
-| Jahr | Ereignis |
-|---|---|
-| 2009 | Gründung als Ingenieurbüro für industrielle Automatisierung in Nürnberg |
-| 2013 | Erweiterung um IT-Dienstleistungen und Cloud-Lösungen |
-| 2016 | Aufbau der Beratungssparte (Advisory) |
-| 2018 | Expansion nach Österreich und in die Schweiz |
-| 2021 | Einführung einer hybriden Cloud-Strategie (Multi-Cloud) |
-| 2023 | Aufbau eines internen ISMS nach ISO/IEC 27001 (in Umsetzung) |
-| 2024 | Ausbau der KI- und Datenplattform-Dienste |
+Die Noventis Group GmbH besteht aus **4 operativen Geschäftsbereichen**, die unterschiedliche Anforderungen an Informationssicherheit und Datenschutz mit sich bringen.
 
----
-
-## 4. Geschäftsbereiche
-
-Die Noventis Group GmbH besteht aus **vier operativen Geschäftsbereichen**, die unterschiedliche Anforderungen an Informationssicherheit und Datenschutz mit sich bringen.
-
-### 4.1 Noventis Engineering
+### 3.1 Noventis Engineering
 
 **Fokus:** Entwicklung industrieller Software und Automatisierungslösungen.
 
@@ -66,7 +50,7 @@ Leistungen:
 - Schutz von Schnittstellen zu Kundenanlagen (OT-Security)
 - Sicherstellung der Produktsicherheit (Security by Design)
 
-### 4.2 Noventis Digital Services
+### 3.2 Noventis Digital Services
 
 **Fokus:** Betrieb von Cloud-Anwendungen und Datenplattformen.
 
@@ -82,7 +66,7 @@ Leistungen:
 - Datenschutz bei Verarbeitung personenbezogener Daten im Auftrag
 - Schutz vor DDoS, Ransomware und Cloud-Fehlkonfigurationen
 
-### 4.3 Noventis Advisory
+### 3.3 Noventis Advisory
 
 **Fokus:** Beratung zu IT-Strategie, Compliance und Risikomanagement.
 
@@ -98,7 +82,7 @@ Leistungen:
 - Reisesicherheit und sichere Kommunikation
 - Interessenkonflikte und Insider-Risiken
 
-### 4.4 Noventis Corporate Solutions
+### 3.4 Noventis Corporate Solutions
 
 **Fokus:** Interne Unterstützung der Geschäftsprozesse.
 
@@ -116,7 +100,7 @@ Funktionen:
 
 ---
 
-## 5. Organisationsstruktur
+## 4. Organisationsstruktur
 
 Die Noventis Group GmbH wird von einer **Geschäftsführung** geleitet, unterstützt durch zentrale Stabsfunktionen und die Bereichsleitungen.
 
@@ -160,11 +144,11 @@ Geschäftsführung
 
 ---
 
-## 6. IT-Landschaft
+## 5. IT-Landschaft
 
 Die IT-Landschaft von Noventis ist **hybrid** aufgebaut und kombiniert eigene Rechenzentren mit Public-Cloud-Diensten.
 
-### 6.1 Zentrale Systeme
+### 5.1 Zentrale Systeme
 
 | System | Zweck |
 |---|---|
@@ -178,7 +162,7 @@ Die IT-Landschaft von Noventis ist **hybrid** aufgebaut und kombiniert eigene Re
 | SIEM | Sicherheitsmonitoring |
 | Ticketing-System | IT-Service-Management |
 
-### 6.2 Cloud- und Rechenzentrumslandschaft
+### 5.2 Cloud- und Rechenzentrumslandschaft
 
 - **Zwei eigene Rechenzentren** in Nürnberg und Frankfurt (aktiv/aktiv)
 - **Multi-Cloud-Strategie:** AWS (primär), Azure (sekundär)
@@ -186,19 +170,19 @@ Die IT-Landschaft von Noventis ist **hybrid** aufgebaut und kombiniert eigene Re
 - **Backup-Strategie:** 3-2-1-Regel, wöchentliche Tests
 - **Notfall- und Wiederanlaufplan (BCP/DRP)** vorhanden, jährlich überprüft
 
-### 6.3 Netzwerk und Peripherie
+### 5.3 Netzwerk und Peripherie
 
 - Standortvernetzung über MPLS und VPN
 - Segmentierung in VLANs
 - Firewall- und IDS/IPS-Systeme an Standortgrenzen
 - WLAN mit 802.1X-Authentifizierung
-- Mobile Devices (Laptops, Smartphones) mit MDM verwaltet
+- Mobile Devices (Laptops, Smartphones, Tablets) mit MDM verwaltet
 
 ---
 
-## 7. Datenlandschaft
+## 6. Datenlandschaft
 
-### 7.1 Datenkategorien
+### 6.1 Datenkategorien
 
 | Kategorie | Beispiele | Schutzbedarf |
 |---|---|---|
@@ -209,7 +193,7 @@ Die IT-Landschaft von Noventis ist **hybrid** aufgebaut und kombiniert eigene Re
 | Betriebsdaten | Logs, Monitoring, Metriken | mittel |
 | Öffentliche Daten | Website, Marketingmaterial | niedrig |
 
-### 7.2 Datenverarbeitung
+### 6.2 Datenverarbeitung
 
 - Verarbeitung **personenbezogener Daten** vor allem in HR, CRM, Marketing
 - **Auftragsverarbeitung** für Kunden in Digital Services
@@ -218,7 +202,7 @@ Die IT-Landschaft von Noventis ist **hybrid** aufgebaut und kombiniert eigene Re
 
 ---
 
-## 8. Regulatorisches Umfeld
+## 7. Regulatorisches Umfeld
 
 Noventis unterliegt verschiedenen regulatorischen Anforderungen:
 
@@ -226,16 +210,16 @@ Noventis unterliegt verschiedenen regulatorischen Anforderungen:
 |---|---|
 | DSGVO | Verarbeitung personenbezogener Daten |
 | BDSG | Ergänzende nationale Regelungen |
-| ISO/IEC 27001:2022 | Freiwilliger ISMS-Standard (in Umsetzung) |
-| NIS2-Richtlinie | Betroffen als IT-Dienstleister (wesentliche Einrichtung) |
-| TISAX (optional) | Automotive-Kunden |
+| ISO/IEC 27001:2022 | Freiwilliger ISMS-Standard |
+| NIS2-Richtlinie | Betroffen als IT-Dienstleister |
+| TISAX | Automotive-Kunden |
 | Branchenspezifische Anforderungen | Energie, Finanzen, Gesundheit |
 
 ---
 
-## 9. Sicherheitsrelevante Ausgangslage
+## 8. Sicherheitsrelevante Ausgangslage
 
-### 9.1 Bereits umgesetzte Maßnahmen
+### 8.1 Bereits umgesetzte Maßnahmen
 
 - ISMS-Aufbau nach ISO/IEC 27001 (in Umsetzung)
 - Bestellung eines CISO und eines DSB
@@ -246,7 +230,7 @@ Noventis unterliegt verschiedenen regulatorischen Anforderungen:
 - SIEM mit 24/7-Monitoring (externer Dienstleister)
 - Notfall- und Wiederanlaufplan
 
-### 9.2 Bekannte Herausforderungen
+### 8.2 Bekannte Herausforderungen
 
 - Heterogene IT-Landschaft durch Wachstum und Zukäufe
 - Teilweise unklare Zuständigkeiten zwischen IT und OT
@@ -258,7 +242,7 @@ Noventis unterliegt verschiedenen regulatorischen Anforderungen:
 
 ---
 
-## 10. Relevanz für die ISMS-Risikoanalyse
+## 9. Relevanz für die ISMS-Risikoanalyse
 
 Die Noventis Group GmbH eignet sich als Fallstudie, weil sie:
 
@@ -269,22 +253,3 @@ Die Noventis Group GmbH eignet sich als Fallstudie, weil sie:
 - **verschiedene Risikokategorien** abdeckt (technisch, organisatorisch, menschlich, extern, physisch).
 
 Damit bildet sie eine solide Grundlage für eine **praxisnahe, nachvollziehbare Risikoanalyse** im Rahmen eines fiktiven ISMS.
-
----
-
-## 11. Annahmen und Einschränkungen
-
-- Alle Angaben sind **fiktiv** und dienen ausschließlich Lernzwecken.
-- Die Unternehmensgröße ist bewusst gewählt, um **Skaleneffekte** und **Komplexität** realistisch abzubilden.
-- Es handelt sich **nicht** um ein echtes Audit, keine Zertifizierung und keine verbindliche Sicherheitsberatung.
-- Bewertungen und Maßnahmen sind **qualitative Einschätzungen** auf Basis der fiktiven Annahmen.
-
----
-
-## 12. Quellen und Orientierung
-
-- ISO/IEC 27001:2022 – Informationssicherheits-Managementsysteme
-- ISO/IEC 27005:2022 – Informationssicherheits-Risikomanagement
-- BSI IT-Grundschutz-Kompendium
-- DSGVO (VO (EU) 2016/679)
-- NIS2-Richtlinie (EU) 2022/2555
