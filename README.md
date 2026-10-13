@@ -23,9 +23,9 @@ Durch die Verarbeitung vertraulicher Kundendaten, den Betrieb digitaler Plattfor
 | Merkmal | Beschreibung |
 |---|---|
 | Unternehmensname | Noventis Group GmbH |
-| Hauptsitz | München, Deutschland |
+| Hauptsitz | Nürnberg, Deutschland |
 | Mitarbeitende | Ca. 4.800 |
-| Standorte | 12 Standorte in Europa |
+| Standorte | 12 weitere Standorte in Europa | 
 | Geschäftsmodell | B2B-Technologie, IT-Dienstleistungen und Unternehmensberatung |
 | IT-Infrastruktur | Hybride Cloud- und Rechenzentrumsumgebung |
 | Kunden | Unternehmen in verschiedeneen Branchen |
