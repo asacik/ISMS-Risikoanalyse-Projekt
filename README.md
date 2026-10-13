@@ -22,6 +22,43 @@ Ziel ist es, den vollständigen Risikomanagement-Prozess eines ISMS exemplarisch
 
 ---
 
+## Repo-Aufbau
+
+1. **`isms-risikoanalyse-noventis/`**
+   - `README.md` – Projektübersicht
+   - `LICENSE` – Lizenzinformationen
+   - `.gitignore` – Git-Ausschlussregeln
+
+2. **`docs/` – Grundlagen**
+   - `01_unternehmensprofil.md` – Unternehmensprofil
+   - `02_scope.md` – Geltungsbereich der Risikoanalyse
+   - `03_methodik.md` – Methodik der Risikoanalyse
+   - `04_bewertungsskalen.md` – Bewertungsskalen und Risikomatrix
+   - `05_annahmen_und_grenzen.md` – Annahmen und Einschränkungen
+
+3. **`datenschutz/` – Datenschutz**
+   - `README.md` – Übersicht zur Datenschutzdokumentation
+   - `VVT_Noventis.xlsx` – Verzeichnis von Verarbeitungstätigkeiten
+
+4. **`risikoregister/` – Risikobewertung**
+   - `README.md` – Anleitung zum Risikoregister
+   - `Risikoregister_Noventis.xlsx` – Übersicht aller identifizierten Risiken
+
+5. **`massnahmen/` – Risikobehandlung**
+   - `README.md` – Übersicht zur Maßnahmenplanung
+   - `Risikobehandlungsplan.md` – Geplante und laufende Risikobehandlungsmaßnahmen
+
+6. **`berichte/` – Berichterstattung**
+   - `README.md` – Übersicht der Berichte
+   - `Risikobericht_Noventis.md` – Zusammenfassung der Risikoanalyse und Ergebnisse
+
+7. **`assets/` – Grafiken und Visualisierungen**
+   - `risikomatrix.png` – Grafische Darstellung der Risikobewertung
+   - `organigramm.png` – Organisatorischer Aufbau der Noventis
+   - `it-landschaft.png` – Übersicht der IT-Systeme und Infrastruktur
+
+---
+
 ## Unternehmensprofil 
 
 | Merkmal | Beschreibung |
@@ -43,39 +80,3 @@ Ziel ist es, den vollständigen Risikomanagement-Prozess eines ISMS exemplarisch
 - **Bewertungsmodell:** 5×5-Matrix (Wahrscheinlichkeit × Auswirkung)
 - **Risikowert:** 1–25, priorisiert in vier Stufen (niedrig / mittel / hoch / kritisch)
 - **Scope:** Zentrale IT-Dienste, Cloud, Entwicklungsumgebungen, vertrauliche Kundendaten, Backup, Zugriffsverwaltung
-
----
-
-isms-risikoanalyse-noventis/
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── docs/
-│   ├── 01_unternehmensprofil.md
-│   ├── 02_scope.md
-│   ├── 03_methodik.md
-│   ├── 04_bewertungsskalen.md
-│   └── 05_annahmen_und_grenzen.md
-│
-├── datenschutz/
-│   ├── README.md
-│   └── VVT_Noventis.xlsx
-│
-├── risikoregister/
-│   ├── README.md
-│   └── Risikoregister_Noventis.xlsx
-│
-├── massnahmen/
-│   ├── README.md
-│   └── Risikobehandlungsplan.md
-│
-├── berichte/
-│   ├── README.md
-│   └── Risikobericht_Noventis.md
-│
-└── assets/
-    ├── risikomatrix.png
-    ├── organigramm.png
-    └── it-landschaft.png
