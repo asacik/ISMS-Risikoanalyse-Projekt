@@ -37,17 +37,28 @@ Alle Angaben sind fiktive Annahmen für diese Fallstudie.
 Die Noventis Group GmbH besteht aus vier Geschäftsbereichen:
 
 ### Noventis Engineering
-Entwicklung von Automatisierungssoftware, industriellen IoT-Lösungen und digitalen Produktionssystemen.
+Entwicklung von: 
+- Automatisierungssoftware
+- industriellen IoT-Lösungen
+- digitalen Produktionssystemen.
 
 ### Noventis Digital Services
-Bereitstellung und Betrieb von Cloud-Anwendungen, Datenplattformen und IT-Dienstleistungen für Geschäftskunden.
+Bereitstellung und Betrieb von: 
+- Cloud-Anwendungen
+- Datenplattformen und IT-Dienstleistungen für Geschäftskunden.
 
 ### Noventis Advisory
-Beratung in den Bereichen IT-Strategie, Compliance, Risikomanagement und digitale Transformation.
-<span style="color:red">Dieser Text ist rot</span>
+Beratung in den Bereichen: 
+- IT-Strategie
+- Compliance
+- Risikomanagement und digitale Transformation.
 
 ### Noventis Corporate Solutions
-Unterstützung interner Geschäftsprozesse in den Bereichen Finanzen, Personalwesen, Einkauf und Vertragsmanagement.
+Unterstützung interner Geschäftsprozesse in den Bereichen: 
+- Finanzen
+- Personalwesen
+- Einkauf
+- Vertragsmanagement.
 
 Die unterschiedlichen Geschäftsbereiche führen zu verschiedenen Informationssicherheitsanforderungen und bilden die Grundlage für die Risikobetrachtung.
 
