@@ -72,11 +72,3 @@ Ziel ist es, den vollständigen Risikomanagement-Prozess eines ISMS exemplarisch
 
 → [Vollständiges Unternehmensprofil](docs/01_unternehmensprofil.md)
 
----
-
-## Methodik & Scope
-
-- **Standard:** ISO/IEC 27001:2022, ergänzend ISO/IEC 27005
-- **Bewertungsmodell:** 5×5-Matrix (Wahrscheinlichkeit × Auswirkung)
-- **Risikowert:** 1–25, priorisiert in vier Stufen (niedrig / mittel / hoch / kritisch)
-- **Scope:** Zentrale IT-Dienste, Cloud, Entwicklungsumgebungen, vertrauliche Kundendaten, Backup, Zugriffsverwaltung
