@@ -41,3 +41,39 @@ Ziel ist es, den vollständigen Risikomanagement-Prozess eines ISMS exemplarisch
 - **Bewertungsmodell:** 5×5-Matrix (Wahrscheinlichkeit × Auswirkung)
 - **Risikowert:** 1–25, priorisiert in vier Stufen (niedrig / mittel / hoch / kritisch)
 - **Scope:** Zentrale IT-Dienste, Cloud, Entwicklungsumgebungen, vertrauliche Kundendaten, Backup, Zugriffsverwaltung
+
+---
+
+isms-risikoanalyse-noventis/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs/
+│   ├── 01_unternehmensprofil.md
+│   ├── 02_scope.md
+│   ├── 03_methodik.md
+│   ├── 04_bewertungsskalen.md
+│   └── 05_annahmen_und_grenzen.md
+│
+├── datenschutz/
+│   ├── README.md
+│   └── VVT_Noventis.xlsx
+│
+├── risikoregister/
+│   ├── README.md
+│   └── Risikoregister_Noventis.xlsx
+│
+├── massnahmen/
+│   ├── README.md
+│   └── Risikobehandlungsplan.md
+│
+├── berichte/
+│   ├── README.md
+│   └── Risikobericht_Noventis.md
+│
+└── assets/
+    ├── risikomatrix.png
+    ├── organigramm.png
+    └── it-landschaft.png
