@@ -27,30 +27,30 @@ Ziel ist es, den vollständigen Risikomanagement-Prozess eines ISMS exemplarisch
 ```text
 ISMS-Risikoanalyse-Projekt/
 │
-├── assets/                            # 🎨 Grafiken und Visualisierungen
-│   └── README.md                      # Übersicht der Assets
+├── assets/                            
+│   └── README.md                      
 │
-├── berichte/                          # 📊 Berichterstattung
-│   └── README.md                      # Übersicht der Berichte
+├── berichte/                          
+│   └── README.md                      
 │
-├── datenschutz/                       # 🔒 Datenschutz
-│   └── README.md                      # Übersicht zur Datenschutzdokumentation
+├── datenschutz/                      
+│   └── README.md                      
 │
-├── docs/                              # 📚 Grundlagen
-│   ├── 01_unternehmensprofil.md       # Unternehmensprofil (Noventis)
-│   ├── 02_scope.md                    # Geltungsbereich der Risikoanalyse
-│   ├── 03_methodik.md                 # Methodik der Risikoanalyse
-│   ├── 04_bewertungsskalen.md         # Bewertungsskalen und Risikomatrix
-│   └── 05_annahmen_und_grenzen.md     # Annahmen und Einschränkungen
+├── docs/                              
+│   ├── 01_unternehmensprofil.md       
+│   ├── 02_scope.md                   
+│   ├── 03_methodik.md                
+│   ├── 04_bewertungsskalen.md         
+│   └── 05_annahmen_und_grenzen.md
 │
-├── maßnahmen/                         # 🛠️ Risikobehandlung
-│   └── README.md                      # Übersicht zur Maßnahmenplanung
+├── maßnahmen/                         
+│   └── README.md                      
 │
-├── risikoregister/                    # ⚠️ Risikobewertung
-│   └── README.md                      # Anleitung zum Risikoregister
+├── risikoregister/                    
+│   └── README.md                      
 │
-├── soa/                               # 📜 Statement of Applicability
-│   └── README.md                      # Übersicht zur Anwendbarkeitserklärung
+├── soa/                               
+│   └── README.md                      
 │
-└── README.md                          # Projektübersicht (Hauptdokument)
+└── README.md                        
 ---
