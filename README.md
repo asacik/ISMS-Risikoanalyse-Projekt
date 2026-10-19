@@ -22,41 +22,43 @@ Ziel ist es, den vollständigen Risikomanagement-Prozess eines ISMS exemplarisch
 
 ---
 
-## Repo-Aufbau
+## 📁 Repo-Aufbau
 
-1. **`isms-risikoanalyse-noventis/`**
-   - `README.md` – Projektübersicht
-   - `LICENSE` – Lizenzinformationen
-   - `.gitignore` – Git-Ausschlussregeln
-
-2. **`docs/` – Grundlagen**
-   - `01_unternehmensprofil.md` – Unternehmensprofil
-   - `02_scope.md` – Geltungsbereich der Risikoanalyse
-   - `03_methodik.md` – Methodik der Risikoanalyse
-   - `04_bewertungsskalen.md` – Bewertungsskalen und Risikomatrix
-   - `05_annahmen_und_grenzen.md` – Annahmen und Einschränkungen
-
-3. **`datenschutz/` – Datenschutz**
-   - `README.md` – Übersicht zur Datenschutzdokumentation
-   - `VVT_Noventis.xlsx` – Verzeichnis von Verarbeitungstätigkeiten
-
-4. **`risikoregister/` – Risikobewertung**
-   - `README.md` – Anleitung zum Risikoregister
-   - `Risikoregister_Noventis.xlsx` – Übersicht aller identifizierten Risiken
-
-5. **`massnahmen/` – Risikobehandlung**
-   - `README.md` – Übersicht zur Maßnahmenplanung
-   - `Risikobehandlungsplan.md` – Geplante und laufende Risikobehandlungsmaßnahmen
-
-6. **`berichte/` – Berichterstattung**
-   - `README.md` – Übersicht der Berichte
-   - `Risikobericht_Noventis.md` – Zusammenfassung der Risikoanalyse und Ergebnisse
-
-7. **`assets/` – Grafiken und Visualisierungen**
-   - `risikomatrix.png` – Grafische Darstellung der Risikobewertung
-   - `organigramm.png` – Organisatorischer Aufbau der Noventis
-   - `it-landschaft.png` – Übersicht der IT-Systeme und Infrastruktur
-
+```
+ISMS-Risikoanalyse-Projekt/
+│
+├── README.md                          # Projektübersicht
+├── LICENSE                            # Lizenzinformationen
+├── .gitignore                         # Git-Ausschlussregeln
+│
+├── docs/                              # 📚 Grundlagen
+│   ├── 01_unternehmensprofil.md       # Unternehmensprofil
+│   ├── 02_scope.md                    # Geltungsbereich der Risikoanalyse
+│   ├── 03_methodik.md                 # Methodik der Risikoanalyse
+│   ├── 04_bewertungsskalen.md         # Bewertungsskalen und Risikomatrix
+│   └── 05_annahmen_und_grenzen.md     # Annahmen und Einschränkungen
+│
+├── datenschutz/                       # 🔒 Datenschutz
+│   ├── README.md                      # Übersicht zur Datenschutzdokumentation
+│   └── VVT_Noventis.xlsx              # Verzeichnis von Verarbeitungstätigkeiten
+│
+├── risikoregister/                    # ⚠️ Risikobewertung
+│   ├── README.md                      # Anleitung zum Risikoregister
+│   └── Risikoregister_Noventis.xlsx   # Übersicht aller identifizierten Risiken
+│
+├── massnahmen/                        # 🛠️ Risikobehandlung
+│   ├── README.md                      # Übersicht zur Maßnahmenplanung
+│   └── Risikobehandlungsplan.md       # Geplante und laufende Maßnahmen
+│
+├── berichte/                          # 📊 Berichterstattung
+│   ├── README.md                      # Übersicht der Berichte
+│   └── Risikobericht_Noventis.md      # Zusammenfassung der Risikoanalyse
+│
+└── assets/                            # 🎨 Grafiken und Visualisierungen
+    ├── risikomatrix.png               # Grafische Darstellung der Risikobewertung
+    ├── organigramm.png                # Organisatorischer Aufbau der Noventis
+    └── it-landschaft.png              # Übersicht der IT-Systeme und Infrastruktur
+```
 ---
 
 ## Unternehmensprofil 
