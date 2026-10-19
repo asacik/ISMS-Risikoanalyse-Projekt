@@ -24,53 +24,33 @@ Ziel ist es, den vollständigen Risikomanagement-Prozess eines ISMS exemplarisch
 
 ## 📁 Repo-Aufbau
 
-```
+```text
 ISMS-Risikoanalyse-Projekt/
 │
-├── README.md                          # Projektübersicht
-├── LICENSE                            # Lizenzinformationen
-├── .gitignore                         # Git-Ausschlussregeln
+├── assets/                            # 🎨 Grafiken und Visualisierungen
+│   └── README.md                      # Übersicht der Assets
+│
+├── berichte/                          # 📊 Berichterstattung
+│   └── README.md                      # Übersicht der Berichte
+│
+├── datenschutz/                       # 🔒 Datenschutz
+│   └── README.md                      # Übersicht zur Datenschutzdokumentation
 │
 ├── docs/                              # 📚 Grundlagen
-│   ├── 01_unternehmensprofil.md       # Unternehmensprofil
+│   ├── 01_unternehmensprofil.md       # Unternehmensprofil (Noventis)
 │   ├── 02_scope.md                    # Geltungsbereich der Risikoanalyse
 │   ├── 03_methodik.md                 # Methodik der Risikoanalyse
 │   ├── 04_bewertungsskalen.md         # Bewertungsskalen und Risikomatrix
 │   └── 05_annahmen_und_grenzen.md     # Annahmen und Einschränkungen
 │
-├── datenschutz/                       # 🔒 Datenschutz
-│   ├── README.md                      # Übersicht zur Datenschutzdokumentation
-│   └── VVT_Noventis.xlsx              # Verzeichnis von Verarbeitungstätigkeiten
+├── maßnahmen/                         # 🛠️ Risikobehandlung
+│   └── README.md                      # Übersicht zur Maßnahmenplanung
 │
 ├── risikoregister/                    # ⚠️ Risikobewertung
-│   ├── README.md                      # Anleitung zum Risikoregister
-│   └── Risikoregister_Noventis.xlsx   # Übersicht aller identifizierten Risiken
+│   └── README.md                      # Anleitung zum Risikoregister
 │
-├── massnahmen/                        # 🛠️ Risikobehandlung
-│   ├── README.md                      # Übersicht zur Maßnahmenplanung
-│   └── Risikobehandlungsplan.md       # Geplante und laufende Maßnahmen
+├── soa/                               # 📜 Statement of Applicability
+│   └── README.md                      # Übersicht zur Anwendbarkeitserklärung
 │
-├── berichte/                          # 📊 Berichterstattung
-│   ├── README.md                      # Übersicht der Berichte
-│   └── Risikobericht_Noventis.md      # Zusammenfassung der Risikoanalyse
-│
-└── assets/                            # 🎨 Grafiken und Visualisierungen
-    ├── risikomatrix.png               # Grafische Darstellung der Risikobewertung
-    ├── organigramm.png                # Organisatorischer Aufbau der Noventis
-    └── it-landschaft.png              # Übersicht der IT-Systeme und Infrastruktur
-```
+└── README.md                          # Projektübersicht (Hauptdokument)
 ---
-
-## Unternehmensprofil 
-
-| Merkmal | Beschreibung |
-|---|---|
-| Name | Noventis Group GmbH (fiktiv) |
-| Hauptsitz | Nürnberg, Deutschland |
-| Mitarbeitende | ca. 4.800 |
-| Standorte | 12 weitere in Europa |
-| Geschäftsfeld | B2B-Technologie, IT-Dienstleistungen, Beratung |
-| IT-Landschaft | Hybride Cloud- & Rechenzentrumsumgebung |
-
-→ [Vollständiges Unternehmensprofil](docs/01_unternehmensprofil.md)
-
