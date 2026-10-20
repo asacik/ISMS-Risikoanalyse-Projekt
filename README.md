@@ -23,7 +23,7 @@ Im Mittelpunkt stehen die Identifikation und Bewertung von Informationssicherhei
 
 ---
 
-## 📁 Repo-Aufbau
+## Repo-Aufbau
 
 ```text
 ISMS-Risikoanalyse-Projekt/
@@ -37,7 +37,8 @@ ISMS-Risikoanalyse-Projekt/
 ├── datenschutz/                      
 │   └── README.md                      
 │
-├── docs/                              
+├── docs/
+│   ├── 00_projektauftrag.md                     
 │   ├── 01_unternehmensprofil.md       
 │   ├── 02_scope.md                   
 │   ├── 03_methodik.md                
@@ -48,10 +49,7 @@ ISMS-Risikoanalyse-Projekt/
 │   └── README.md                      
 │
 ├── risikoregister/                    
-│   └── README.md                      
-│
-├── soa/                               
-│   └── README.md                      
+│   └── README.md                                           
 │
 └── README.md                        
 ---
