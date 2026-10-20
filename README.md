@@ -16,7 +16,7 @@ Ziel dieses Projekts ist die Durchführung einer praxisorientierten ISMS-Risikoa
 
 Im Mittelpunkt stehen die Identifikation und Bewertung von Informationssicherheitsrisiken, die Ableitung geeigneter Sicherheitsmaßnahmen sowie die strukturierte Verknüpfung von Informationssicherheit und Datenschutz. Das Projekt dient als akademische Fallstudie und zur praktischen Vertiefung von Kenntnissen im Informationssicherheitsmanagement. 
 
-[Vollständiger_Projektauftrag](docs/Projektauftrag.md)
+[Vollständiger_Projektauftrag](docs/00_projektauftrag.md)
 
 ---
 
