@@ -1,6 +1,7 @@
 # Projektauftrag - ISMS-Risikoanalyse und Informationssicherheitskonzept #
 
-## 1. Ausganssiituation 
+## 1. Ausganssituation 
+
 Unternehmen sind zunehmend auf die sichere Verarbeitung und Speicherung von Informationen angewiesen. Durch komplexe IT-Infrastruktur, Cloud-Dienste, digitale Geschäftsprozesse und die Verarbeitung personenbezogener Daten entstehen unterschiedkiche Informationssicherheits- und Datenschutzrisiken. 
 
 Ein ISMS unterstützt Unternehmen dabei, diese Risiken systematisch zu identifizeiren, zu bewerten und durch geeignte Maßnahmen zu behandeln. 
@@ -10,6 +11,7 @@ Dieses Projekt verwendet die fiktive **Noventis Group GmbH** als Fallbeispiel. D
 ---
 
 ## 2. Projektziel
+
 Ziel das Projekts ist die Erstellung einer nachvollziehbaren und praxisorientierten ISMS-Risikoanalyse sowie eines darauf aufbauenden Informationssicherheitskonzepts für einen definierten Unternehmnungsbereich der fiktiven Noventis Group GmbH. 
 
 Hierzu werden relevante Geschäftsprozessen und Informationen betrachtet, Risiken identifiziert und bewertet sowie geeignete Maßnahmen zur Risikobehandlung abgelitet. 
@@ -17,6 +19,7 @@ Hierzu werden relevante Geschäftsprozessen und Informationen betrachtet, Risike
 Darüber hinaus sollen Zusammenhänge zwischen Informationssicherheit, personenbezogenene Daten und datenschutzrechtlichen Anforderungen systematisch dokumentiert werden. 
 
 ### 2.1 Teilziele
+
 - Beschreibung des Unternehmens und seiner relevanten Geschäftsprozesse.
 - Definition und Begründung des Untersuchungsbereichs.
 - Entwicklung einer nachvollziehbaren Risikobewertungsmethodik.
@@ -31,6 +34,7 @@ Darüber hinaus sollen Zusammenhänge zwischen Informationssicherheit, personenb
 ## 3. Projektumfang 
 
 ### 3.1 Bestandteile des Projekts
+
 Dieses Projekt umfasst folgende Themenbereiche: 
 
 1. **Unternehmensanalyse:** Beschreibung der Organisation, der IT-Landschaft und der Geschäftsprozesse.
@@ -42,6 +46,7 @@ Dieses Projekt umfasst folgende Themenbereiche:
 7. **Ergebnisdokumentation:** Erstellung eines Management-Zusammenfassung und eines Abschlussberichts.
 
 ## 3.2 Nicht Bestandteil des Projekt
+
 Nicht Gegenstand des Projekts sind:
 
 - Die vollständige Einführung eines ISMS in einem realen Unternehmen.
@@ -55,6 +60,7 @@ Nicht Gegenstand des Projekts sind:
 --- 
 
 ## 4. Methodische Grundlagen 
+
 Die Risikoanalyse orientiert sich an den Anforderungen und Grundsätzen der ISO/IEC 27001:2022. Die konkrete Vorgehensweise zur Risikobewertung wird projektspezifisch dokumentiert. 
 
 Dabei werden insbesondere folgende Aspekte berücksichtigt: 
@@ -89,5 +95,14 @@ Die genannten ergebnisse sind geplante Liefergegenstände. Sie gelten erst dann 
 
 --- 
 
+## 6. Annahmen und Einschränkungen 
 
-   
+Die Analyse basiert auf einem fiktiven Unternehmen und auf dokumentierten Annahmen. Es liegen keine verifizierten Informationen aus einem realen Unternehmen vor. 
+
+Daher gillt: 
+- Die beschriebenen Systeme, Prozesse und Kontrollen sind modellhafte Annahmen.
+- Die Risikobewertung sind qualitative beziehungsweise methodisch begründete Einschätzung
+- Die Wirksamkeit bestehender oder vorgeschlagener Maßnahmen wurde nicht technisch geprüft.
+- Nicht dokumentierte Informationen werde nicht automatisch als Nachweis für das Fehlen einer Kontrolle interpretiert.
+- Datenschutzrechtliche Bewertungen dienen der fachlichen Auseinandersetzung und ersetzen keine individuelle Rechtsbeartung.
+
