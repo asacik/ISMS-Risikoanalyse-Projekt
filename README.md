@@ -1,6 +1,9 @@
 # ISMS-Risikoanalyse – Noventis Group GmbH
 
 ![Status](https://img.shields.io/badge/Status-in%20Arbeit-yellow)
+![Datenschutz](https://img.shields.io/badge/Datenschutz-blue)
+![Risikomanagement](https://img.shields.io/badge/Risikomanagement-orange)
+![Informationssicherheit](https://img.shields.io/badge/Informationssicherheit-green)
 ![Standard](https://img.shields.io/badge/ISO%2FIEC-27001%3A2022-blue)
 ![Copyright](https://img.shields.io/badge/%C2%A9%202026-Ilker%20Acikg%C3%B6z-red)
 
