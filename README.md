@@ -15,7 +15,7 @@ Eine praxisorientierte Fallstudie zur **systematischen Identifikation, Bewertung
 
 ## Ziel des Projekts
 
-Ziel dieses Projekts ist die Durchführung einer praxisorientierten ISMS-Risikoanalyse für die fiktive Noventis Group GmbH auf Grundlage der ISO/IEX 27001:2022 unter Berücksichtigung relevanter Datenschutzanforderungen der DSGVO. 
+Ziel dieses Projekts ist die Durchführung einer praxisorientierten ISMS-Risikoanalyse für die fiktive Noventis Group GmbH auf Grundlage der ISO/IEC 27001:2022 unter Berücksichtigung relevanter Datenschutzanforderungen der DSGVO. 
 
 Im Mittelpunkt stehen die Identifikation und Bewertung von Informationssicherheitsrisiken, die Ableitung geeigneter Sicherheitsmaßnahmen sowie die strukturierte Verknüpfung von Informationssicherheit und Datenschutz. Das Projekt dient als akademische Fallstudie und zur praktischen Vertiefung von Kenntnissen im Informationssicherheitsmanagement. 
 
